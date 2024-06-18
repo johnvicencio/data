@@ -1,0 +1,21 @@
+EmployeeID,Name,Department,Position,Salary,HireDate,PerformanceRating
+1,John Smith,Finance,Financial Analyst,60000,3/15/2018,4
+2,Jane Doe,HR,HR Manager,75000,6/22/2017,3
+3,Michael Brown,IT,Software Engineer,80000,8/1/2019,5
+4,Linda White,Marketing,Marketing Specialist,55000,11/12/2020,2
+5,James Green,Sales,Sales Manager,90000,4/10/2016,4
+6,Patricia Taylor,Finance,Accountant,65000,9/23/2015,3
+7,Robert Miller,IT,DevOps Engineer,85000,1/19/2021,5
+8,Mary Wilson,HR,Recruiter,50000,12/5/2018,4
+9,William Davis,Marketing,Content Creator,48000,7/25/2019,2
+10,Elizabeth Garcia,Sales,Sales Representative,70000,10/3/2017,3
+11,Joseph Martinez,IT,System Administrator,75000,2/13/2018,4
+12,Barbara Anderson,Finance,Financial Analyst,62000,3/30/2020,3
+13,Thomas Hernandez,HR,HR Coordinator,54000,5/21/2016,4
+14,Christopher Moore,Marketing,Marketing Manager,82000,9/10/2017,5
+15,Daniel Jackson,Sales,Sales Executive,67000,11/29/2019,3
+16,Nancy Lee,IT,Data Scientist,95000,5/14/2021,5
+17,Paul Thompson,Finance,Chief Financial Officer,150000,12/18/2015,4
+18,Karen Martinez,HR,HR Specialist,56000,6/11/2019,3
+19,Donald Walker,Marketing,SEO Specialist,59000,8/4/2020,4
+20,Sarah Young,Sales,Sales Associate,47000,4/27/2018,2
